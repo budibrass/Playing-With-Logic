@@ -7,9 +7,11 @@ dan jumlah maksimal kursi per baris vertikal adalah 3.
 tampilkan siapa saja yg berada di baris 1, 2, dan 3 nya.
 
 hasil yg benar :
+```JavaScript
 Baris 0 :  [ 'a', 'd', 'g', 'j' ]
 Baris 1 :  [ 'b', 'e', 'h' ]
 Baris 2 :  [ 'c', 'f', 'i' ]
+```
 
 ## Solving
 ```JavaScript
